@@ -12,6 +12,7 @@
 		6F173B7C20BED09D00A68CF9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F173B7A20BED09D00A68CF9 /* Main.storyboard */; };
 		6F173B7E20BED09F00A68CF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F173B7D20BED09F00A68CF9 /* Assets.xcassets */; };
 		6F173B8120BED09F00A68CF9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F173B7F20BED09F00A68CF9 /* LaunchScreen.storyboard */; };
+		6F173B8920BEDA0E00A68CF9 /* mytwitter-bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6F173B8820BEDA0E00A68CF9 /* mytwitter-bg.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6F173B7D20BED09F00A68CF9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6F173B8020BED09F00A68CF9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6F173B8220BED09F00A68CF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F173B8820BEDA0E00A68CF9 /* mytwitter-bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "mytwitter-bg.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		6F173B7520BED09D00A68CF9 /* mytwitter */ = {
 			isa = PBXGroup;
 			children = (
+				6F173B8820BEDA0E00A68CF9 /* mytwitter-bg.jpg */,
 				6F173B7620BED09D00A68CF9 /* AppDelegate.swift */,
 				6F173B7820BED09D00A68CF9 /* ViewController.swift */,
 				6F173B7A20BED09D00A68CF9 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			files = (
 				6F173B8120BED09F00A68CF9 /* LaunchScreen.storyboard in Resources */,
 				6F173B7E20BED09F00A68CF9 /* Assets.xcassets in Resources */,
+				6F173B8920BEDA0E00A68CF9 /* mytwitter-bg.jpg in Resources */,
 				6F173B7C20BED09D00A68CF9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
